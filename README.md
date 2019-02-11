@@ -3,7 +3,7 @@ Having just a little fun with Stimulus framework making a simple todo list
 
 ## Showtime
 
-![Stimulus](Stimulus.jpg)
+![Stimulus](./Stimulus.jpg)
 
 ## Built within
 
